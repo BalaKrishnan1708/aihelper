@@ -1,58 +1,62 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Balakrishnan%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Dev%20%7C%20Builder%20of%20Ideas&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=BALAKRISHNAN%20R&fontSize=52&fontColor=70a5fd&animation=fadeIn&fontAlignY=38&desc=AI+%26+Data+Science+Engineer+%7C+Full-Stack+Developer+%7C+Hackathon+Finalist&descAlignY=62&descSize=15&descColor=8b949e"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Bala+%F0%9F%91%8B;AI+%26+DS+Student+%40+SVCE+Chennai;Full-Stack+Dev+%7C+Hackathon+Warrior;Building+AI-Driven+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1200&color=70A5FD&center=true&vCenter=true&width=780&lines=B.Tech+AI+%26+Data+Science+%7C+SVCE+Chennai;Full-Stack+Developer+%7C+Angular+%7C+MERN+Stack;Hackathon+Finalist+%7C+Makeathon+7.0+%E2%80%94+2nd+Place;Tech+Lead+%40+E-Cell+SVCE+%7C+Builder+%40+KNOW-I;Building+AI-Driven+Solutions+for+Real+Problems" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BalaKrishnan1708&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/balakrishnan-r">
-    <img src="https://img.shields.io/badge/LinkedIn-balakrishnan--r-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bala.ramyaram@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bala.ramyaram%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/BalaKrishnan1708">
-    <img src="https://img.shields.io/badge/GitHub-BalaKrishnan1708-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-balakrishnan--r-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakrishnan-r-5a1006278/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Balakrishnan1708-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Balakrishnan1708/)
+[![Gmail](https://img.shields.io/badge/Gmail-bala.ramyaram%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bala.ramyaram@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BalaKrishnan1708-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BalaKrishnan1708)
+[![Profile Views](https://komarev.com/ghpvc/?username=BalaKrishnan1708&label=PROFILE+VIEWS&color=70a5fd&style=for-the-badge)](https://github.com/BalaKrishnan1708)
+
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## ABOUT ME
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class Balakrishnan:
+
     def __init__(self):
-        self.name         = "Balakrishnan R"
-        self.location     = "Chennai, Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.Tech – AI & Data Science @ SVCE (2027)"
-        self.email        = "bala.ramyaram@gmail.com"
-        self.stack        = [
+        self.name              = "Balakrishnan R"
+        self.location          = "Chennai, Tamil Nadu, India"
+        self.degree            = "B.Tech — AI & Data Science @ SVCE (2027)"
+        self.email             = "bala.ramyaram@gmail.com"
+        self.linkedin          = "linkedin.com/in/balakrishnan-r-5a1006278"
+        self.leetcode          = "leetcode.com/u/Balakrishnan1708"
+
+        self.stack             = [
             "Python", "Java", "JavaScript",
-            "MERN Stack", "HTML/CSS",
-            "Pandas", "NumPy", "Scikit-Learn"
-        ]
-        self.currently_learning = [
-            "Advanced Machine Learning",
-            "Blockchain Integration",
-            "System Design"
-        ]
-        self.fun_fact     = "I scored 100% in Class 10 & host podcasts 🎙️"
-        self.roles        = [
-            "Tech Lead @ E-Cell SVCE",
-            "Senior Web Dev @ KNOW-I",
-            "Emcee @ Highways 2024 & 2025"
+            "MERN Stack", "Angular", "HTML/CSS",
+            "Pandas", "NumPy", "Scikit-Learn",
+            "MongoDB", "Blockchain"
         ]
 
-    def motto(self):
-        return "Build. Break. Learn. Repeat. 🚀"
+        self.currently_learning = [
+            "Deep Learning & Neural Networks",
+            "Smart Contracts & Solidity",
+            "Scalable System Design"
+        ]
+
+        self.roles             = [
+            "Tech Lead  — E-Cell SVCE",
+            "Senior Web Developer — KNOW-I",
+            "Podcast Executive Member",
+            "Emcee — Highways 2024 & 2025"
+        ]
+
+    def motto(self) -> str:
+        return "Build. Break. Learn. Repeat."
 
 me = Balakrishnan()
 print(me.motto())
@@ -60,203 +64,195 @@ print(me.motto())
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🛠️ Tech Stack & Tools
+## TECH ARSENAL
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases**
+**Databases & Cloud**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-**Tools & DevOps**
+**Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
-![GIS](https://img.shields.io/badge/GIS%20Tools-34A853?style=flat-square&logo=googlemaps&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-0078D4?style=flat-square&logo=satellite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS%20Tools-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 GitHub Stats
+## GITHUB STATISTICS
 
 <div align="center">
   <a href="https://github.com/BalaKrishnan1708">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalaKrishnan1708&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=BalaKrishnan1708&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&rank_icon=github"/>
   </a>
   <a href="https://github.com/BalaKrishnan1708">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaKrishnan1708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaKrishnan1708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
----
-
-## 🔥 Streak Stats
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BalaKrishnan1708&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img width="98%" src="https://streak-stats.demolab.com?user=BalaKrishnan1708&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
----
-
-## 📈 Activity Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalaKrishnan1708&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BalaKrishnan1708&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=10"/>
 </div>
-
----
-
-## 🏆 Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BalaKrishnan1708&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 💼 Work Experience
-
-<details>
-<summary>⚡ <strong>SpearStreamZ Technologies</strong> — Full-Stack Developer Intern &nbsp;|&nbsp; Dec 2025 – Feb 2026 &nbsp;|&nbsp; Chennai</summary>
-
-<br/>
-
-> ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-> ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-> ![Full-Stack](https://img.shields.io/badge/Full--Stack-0078D4?style=flat-square&logo=stackshare&logoColor=white)
-
-- 🔄 Led a complete frontend migration from **Vue 3 to Angular**, modernizing the entire web platform architecture.
-- 🌐 Developed and deployed **responsive full-stack web applications** using modern frameworks and best practices.
-- 📊 Implemented **data-driven features** that enhanced user experience and boosted system performance.
-- 🚀 Delivered production-ready features within sprint cycles in an agile development environment.
-
-</details>
+## WORK EXPERIENCE
 
 <details>
-<summary>🌐 <strong>Ikipendence & Sthaniya</strong> — Web Development Intern &nbsp;|&nbsp; May – July 2025 &nbsp;|&nbsp; Remote</summary>
+<summary><b>SpearStreamZ Technologies</b> &nbsp;&mdash;&nbsp; Full-Stack Developer Intern &nbsp;|&nbsp; Dec 2025 &ndash; Feb 2026 &nbsp;|&nbsp; Chennai, India</summary>
 
 <br/>
-
-> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-> ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-> ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-- 🛠️ Developed **responsive full-stack applications** with integrated data-driven features using modern web technologies.
-- 👥 Collaborated in **agile environments** to deliver user-focused solutions on schedule.
-- 🔗 Integrated **external APIs and data pipelines** to power dynamic, real-time application features.
-- 📱 Ensured **cross-device compatibility** and accessibility across all developed interfaces.
-
-</details>
-
----
-
-## 🚀 Featured Projects
 
 <div align="center">
 
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---:|:---:|:---|
-| [**IDVault**](https://github.com/BalaKrishnan1708) | MongoDB · Blockchain · JavaScript | 🔐 Centralized platform for storing, managing & verifying identity documents. Implemented encryption + role-based access control with **Blockchain for tamper-proof verification**. |
-| [**Adaptive Traffic Management System**](https://github.com/BalaKrishnan1708) | HTML · JS · Python | 🚦 Intelligent signal control using **density-based adaptive logic**. Significantly reduced average commuter wait times through real-time signal adaptation. |
-| [**Readable**](https://github.com/BalaKrishnan1708) | Python · JavaScript · ML | 📚 Assistive educational platform for dyslexia using **eye-tracking & voice data** to diagnose learning profiles. Engineered a browser extension + automated lesson-parsing system. |
-| [**Crop Management with Satellite Images**](https://github.com/BalaKrishnan1708) | Python · GIS · Remote Sensing | 🛰️ Automated crop classification & health monitoring using satellite imagery. Delivered accurate yield insights handling real-world challenges like cloud obstruction. |
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-0078D4?style=flat-square&logo=stackshare&logoColor=white)
 
 </div>
 
----
+- Led a complete frontend platform migration from **Vue 3 to Angular**, re-architecting the entire web layer from the ground up.
+- Developed and deployed responsive, production-grade full-stack web applications using modern component-based architecture.
+- Implemented data-driven UI features that measurably improved user experience and system throughput.
+- Delivered sprint-cycle-ready features in an agile team environment with continuous integration practices.
 
-## 🏅 Achievements
+</details>
+
+<details>
+<summary><b>Ikipendence & Sthaniya</b> &nbsp;&mdash;&nbsp; Web Development Intern &nbsp;|&nbsp; May &ndash; July 2025 &nbsp;|&nbsp; Remote</summary>
+
+<br/>
 
 <div align="center">
 
-| 🏆 | Achievement | Details |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</div>
+
+- Built and shipped responsive full-stack applications with real-time, data-driven features using the MERN stack.
+- Collaborated in fast-paced agile sprints to deliver user-centric solutions against tight deadlines.
+- Integrated external APIs and backend data pipelines to power dynamic application interfaces.
+- Maintained cross-device compatibility and accessibility standards across all delivered components.
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## FEATURED PROJECTS
+
+<div align="center">
+
+| Project | Stack | Key Highlights |
+|:---|:---:|:---|
+| **[IDVault](https://github.com/BalaKrishnan1708)** | MongoDB · Blockchain · JS | Centralized identity document vault with encryption, role-based access control, and Blockchain-backed tamper-proof verification |
+| **[Adaptive Traffic Management System](https://github.com/BalaKrishnan1708)** | HTML · JS · Python | Density-based adaptive signal control system that significantly reduced urban commuter wait times in real-time |
+| **[Readable](https://github.com/BalaKrishnan1708)** | Python · JS · ML | Assistive learning platform for dyslexia — eye-tracking and voice data used to diagnose profiles; includes browser extension and automated lesson parser |
+| **[Crop Management via Satellite Imagery](https://github.com/BalaKrishnan1708)** | Python · GIS · Remote Sensing | Automated crop classification and health monitoring using satellite data with cloud-obstruction handling for accurate yield insights |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## ACHIEVEMENTS
+
+<div align="center">
+
+| Rank / Award | Event | Detail |
 |:---:|:---|:---|
-| 🥈 | **Makeathon 7.0** | Secured **2nd Place** at one of the most competitive makeathon events |
-| 🇮🇳 | **Smart India Hackathon** | Strong national-level performance representing SVCE |
-| 📊 | **Multiple Datathons** | Consistently strong performer across data science competitions |
-| 🎤 | **Emcee — Highways 2024 & 2025** | Hosted the college's flagship cultural fest two years running |
-| 💼 | **Tech Lead — E-Cell SVCE** | Leading entrepreneurship initiatives since March 2025 |
-| 🌐 | **Senior Web Developer — KNOW-I** | Heading web development for the AI club since August 2025 |
-| 🎓 | **Santa Clara University Certification** | "Starting a Business" — Entrepreneurship & Startup Fundamentals |
-| 💡 | **HP LIFE Certification** | "Growth Engine for Your Business" — Business Strategy & Growth |
-| 🎙️ | **Podcast Executive Member** | Active content creator & podcaster since December 2023 |
-| 📡 | **RJ & Public Speaker** | Scripting, content creation, and live emceeing experience |
+| **2nd Place** | Makeathon 7.0 | Top finalist in one of the region's most competitive product hackathons |
+| **Finalist** | Smart India Hackathon | National-level representation for SVCE in government-backed innovation challenge |
+| **Finalist** | Multiple Datathons | Consistent high-rank performances across data science competitions |
+| **Certified** | Santa Clara University | "Starting a Business" — Entrepreneurship and startup strategy |
+| **Certified** | HP LIFE | "Growth Engine for Your Business" — Business strategy and market growth |
+| **Tech Lead** | E-Cell SVCE | Driving entrepreneurship and innovation culture (Mar 2025 — Present) |
+| **Senior Dev** | KNOW-I (AI Club) | Leading all web development operations (Aug 2025 — Present) |
+| **Exec Member** | Podcast Team | Content creation, scripting and production (Dec 2023 — Present) |
+| **Emcee** | Highways 2024 & 2025 | Hosted SVCE's flagship cultural fest two consecutive years |
+| **RJ & Speaker** | Public Communication | Live radio-style presenting, scripting, and public speaking |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🎓 Education
+## EDUCATION
 
 <div align="center">
 
-| 🏫 Institution | 📜 Degree / Board | 📅 Year | 📈 Score |
-|:---:|:---:|:---:|:---:|
-| Sri Venkateswara College of Engineering (SVCE) | B.Tech – AI & Data Science | Expected May 2027 | CGPA: 6.70 |
-| Sri Sankara Vidyalaya Matric Hr. Sec. School | Class 12 (State Board) | 2023 | 69.6% |
-| Sri Sankara Vidyalaya Matric Hr. Sec. School | Class 10 (State Board) | 2021 | 100% 🎯 |
+| Institution | Program | Year | Score |
+|:---|:---|:---:|:---:|
+| Sri Venkateswara College of Engineering (SVCE) | B.Tech — Artificial Intelligence & Data Science | 2027 (Expected) | CGPA: 6.70 |
+| Sri Sankara Vidyalaya Matric Hr. Sec. School | Class XII — State Board | 2023 | 69.6% |
+| Sri Sankara Vidyalaya Matric Hr. Sec. School | Class X — State Board | 2021 | 100% |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🧠 Currently Learning
+## CURRENTLY LEARNING
 
 ```
-🤖 Machine Learning      →  Deep Learning, Neural Networks, Model Deployment
-⛓️  Blockchain            →  Smart Contracts, Solidity, Decentralized Apps
-🏗️  System Design         →  Scalability, Microservices, Architecture Patterns
-📡  Remote Sensing        →  Satellite Image Processing, GIS Advanced Tools
-💼  Entrepreneurship      →  Lean Startup, Venture Strategy, Product-Market Fit
+  Machine Learning      -->  Deep Learning | Neural Networks | Model Deployment
+  Blockchain            -->  Smart Contracts | Solidity | Decentralized Applications
+  System Design         -->  Scalability | Microservices | Distributed Architecture
+  Remote Sensing        -->  Satellite Image Processing | Advanced GIS Tools
+  Entrepreneurship      -->  Lean Startup | Venture Strategy | Product-Market Fit
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 🌐 Connect With Me
+## CONNECT
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/balakrishnan-r">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:bala.ramyaram@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/BalaKrishnan1708">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balakrishnan-r-5a1006278/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Balakrishnan1708/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bala.ramyaram@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BalaKrishnan1708)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/BalaKrishnan1708">BalaKrishnan1708</a> — "Build. Break. Learn. Repeat." 🚀</i>
+  <sub>Balakrishnan R &mdash; BalaKrishnan1708 &mdash; "Build. Break. Learn. Repeat."</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:1a1b27,100:0d1117&height=130&section=footer&animation=twinkling"/>
