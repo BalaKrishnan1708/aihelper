@@ -22,47 +22,36 @@
 
 ## ABOUT ME
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```python
-class Balakrishnan:
+**Balakrishnan R** is a third-year B.Tech student specializing in Artificial Intelligence and Data Science at Sri Venkateswara College of Engineering, Chennai.
 
-    def __init__(self):
-        self.name              = "Balakrishnan R"
-        self.location          = "Chennai, Tamil Nadu, India"
-        self.degree            = "B.Tech — AI & Data Science @ SVCE (2027)"
-        self.email             = "bala.ramyaram@gmail.com"
-        self.linkedin          = "linkedin.com/in/balakrishnan-r-5a1006278"
-        self.leetcode          = "leetcode.com/u/Balakrishnan1708"
+He works at the intersection of full-stack engineering and machine learning — having migrated entire production web platforms, built blockchain-backed identity systems, and engineered assistive AI tools for accessibility.
 
-        self.stack             = [
-            "Python", "Java", "JavaScript",
-            "MERN Stack", "Angular", "HTML/CSS",
-            "Pandas", "NumPy", "Scikit-Learn",
-            "MongoDB", "Blockchain"
-        ]
+Beyond code, he leads as Tech Lead at E-Cell SVCE, drives web infrastructure at KNOW-I (AI Club), produces podcasts, and has emceed SVCE's flagship cultural fest two years running.
 
-        self.currently_learning = [
-            "Deep Learning & Neural Networks",
-            "Smart Contracts & Solidity",
-            "Scalable System Design"
-        ]
+---
 
-        self.roles             = [
-            "Tech Lead  — E-Cell SVCE",
-            "Senior Web Developer — KNOW-I",
-            "Podcast Executive Member",
-            "Emcee — Highways 2024 & 2025"
-        ]
+| | |
+|:---|:---|
+| **Location** | Chennai, Tamil Nadu, India |
+| **Degree** | B.Tech — AI & Data Science, SVCE (2027) |
+| **Email** | bala.ramyaram@gmail.com |
+| **LinkedIn** | [balakrishnan-r-5a1006278](https://www.linkedin.com/in/balakrishnan-r-5a1006278/) |
+| **LeetCode** | [Balakrishnan1708](https://leetcode.com/u/Balakrishnan1708/) |
+| **Focus** | Full-Stack Dev · ML · Blockchain · GIS |
+| **Motto** | Build. Break. Learn. Repeat. |
 
-    def motto(self) -> str:
-        return "Build. Break. Learn. Repeat."
+</td>
+<td valign="top" width="45%">
 
-me = Balakrishnan()
-print(me.motto())
-```
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -89,11 +78,11 @@ print(me.motto())
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases & Cloud**
+**Databases & Infrastructure**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 **Tools & Platforms**
 
@@ -183,8 +172,8 @@ print(me.motto())
 | Project | Stack | Key Highlights |
 |:---|:---:|:---|
 | **[IDVault](https://github.com/BalaKrishnan1708)** | MongoDB · Blockchain · JS | Centralized identity document vault with encryption, role-based access control, and Blockchain-backed tamper-proof verification |
-| **[Adaptive Traffic Management System](https://github.com/BalaKrishnan1708)** | HTML · JS · Python | Density-based adaptive signal control system that significantly reduced urban commuter wait times in real-time |
-| **[Readable](https://github.com/BalaKrishnan1708)** | Python · JS · ML | Assistive learning platform for dyslexia — eye-tracking and voice data used to diagnose profiles; includes browser extension and automated lesson parser |
+| **[Adaptive Traffic Management System](https://github.com/BalaKrishnan1708)** | HTML · JS · Python | Density-based adaptive signal control that significantly reduced urban commuter wait times in real-time |
+| **[Readable](https://github.com/BalaKrishnan1708)** | Python · JS · ML | Assistive learning platform for dyslexia — eye-tracking and voice data to diagnose profiles; browser extension and automated lesson parser |
 | **[Crop Management via Satellite Imagery](https://github.com/BalaKrishnan1708)** | Python · GIS · Remote Sensing | Automated crop classification and health monitoring using satellite data with cloud-obstruction handling for accurate yield insights |
 
 </div>
@@ -203,7 +192,7 @@ print(me.motto())
 | **Certified** | Santa Clara University | "Starting a Business" — Entrepreneurship and startup strategy |
 | **Certified** | HP LIFE | "Growth Engine for Your Business" — Business strategy and market growth |
 | **Tech Lead** | E-Cell SVCE | Driving entrepreneurship and innovation culture (Mar 2025 — Present) |
-| **Senior Dev** | KNOW-I (AI Club) | Leading all web development operations (Aug 2025 — Present) |
+| **Senior Dev** | KNOW-I AI Club | Leading all web development operations (Aug 2025 — Present) |
 | **Exec Member** | Podcast Team | Content creation, scripting and production (Dec 2023 — Present) |
 | **Emcee** | Highways 2024 & 2025 | Hosted SVCE's flagship cultural fest two consecutive years |
 | **RJ & Speaker** | Public Communication | Live radio-style presenting, scripting, and public speaking |
